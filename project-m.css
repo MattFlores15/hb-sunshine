@@ -285,6 +285,8 @@ a:hover img {
     height: calc(100% - 40px);
     width: 950px;
     margin: auto;
+    display: flex;
+    align-items: center;
 }
 
 .video-message iframe {
